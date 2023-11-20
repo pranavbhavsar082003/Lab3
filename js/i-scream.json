@@ -12,7 +12,7 @@
             "Peppermint Sprinkle",
             "Vanilla Base"
         ],
-        "image": "https://priyansht.github.io/23F-JavaScript-03-Week11/images/chocolate-mint.svg"
+        "image": "https://github.pranavbhavsar082003.io/Lab3/images/chocolate-mint.svg"
     }, {
         "name": "Peach Mango",
         "calories": 350,
@@ -22,7 +22,7 @@
             "Mango Chunks",
             "Vanilla Base"
         ],
-        "image": "https://priyansht.github.io/23F-JavaScript-03-Week11/images/peach-mango.svg"
+        "image": "https://github.pranavbhavsar082003.io/Lab3/images/peach-mango.svg"
     }, {
         "name": "Strawberry Sprinkle",
         "calories": 400,
@@ -32,6 +32,26 @@
             "Sprinkles",
             "Vanilla Base"
         ],
-        "image": "https://priyansht.github.io/23F-JavaScript-03-Week11/images/strawberry-sprinkle.svg"
+        "image": "https://github.pranavbhavsar082003.io/Lab3/images/strawberry-sprinkle.svg"
+    }, {
+        "name": "Green Cream",
+        "calories": 300,
+        "type": "ice-cream",
+        "ingredients": [
+            "Green Syrup",
+            "Sprinkles",
+            "Vanilla Base"
+        ],
+        "image": "https://github.pranavbhavsar082003.io/Lab3/images/ice-cream-xtra1.svg"
+    }, {
+        "name": "Brown Chips Ice Cream",
+        "calories": 450,
+        "type": "ice-cream",
+        "ingredients": [
+            "Brownie",
+            "Coco chunks",
+            "Chocolate Syrup"
+        ],
+        "image": "https://github.pranavbhavsar082003.io/Lab3/images/ice-cream-xtra2.svg"
     }]
 }
